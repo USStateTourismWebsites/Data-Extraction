@@ -87,3 +87,7 @@ Akshat, Shah: Data Extraction, Developer
 1) Turning static graphs and maps into dynamic ones with sliders and animated data visualization.
 
 2) Expanding data extraction and visualization techniques to neighboring states.
+
+**Setup**
+Clone the repository.
+Download the .parquet files from this link: https://drive.google.com/drive/folders/1QDd-wo0BlVlXgoJZveiZIu22hVJ4GINS?usp=sharing and put the files into the folder titled "data."
